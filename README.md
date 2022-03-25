@@ -10,11 +10,6 @@ That number comes from the amount of tiny particles called protons in each atom 
 ## Colour Representation
 
 
-
-
-
-
-
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160206043-a90708e5-e450-46dc-838f-19e21397ccd5.jpg" height="50" /></a> 
 ---
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160206290-ba382bbf-cd8c-428e-a23f-c3315c56fa03.jpg" height="50" /></a>
@@ -29,18 +24,18 @@ That number comes from the amount of tiny particles called protons in each atom 
 ---
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160206875-5678dfae-c9e8-4c00-93d7-75acb1c2cb4b.jpg" height="50" /></a>
 ---
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160206886-7368ebfa-4674-41d2-9091-2afdc6bffec8.jpg" height=50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160207461-07cbeda1-a99e-4bd4-9ce7-2e75f050cfce.jpg" height="50" /></a>
 ---
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160206951-207a3ecf-97a2-47b5-86ee-a019a9ea6df3.jpg" height="50" /></a>
 ---
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160175483-d6b23d6c-d0a8-4278-8ad5-3e5932615321.png" height="91" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160207785-ec788a5d-f6b8-440a-9ce2-9bd6f510239c.jpg" height="50" /></a>
 ---
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160175581-8f3bcccd-fb97-4daa-b835-65eb0765ea24.png" height="101" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160207793-0f4aa910-586a-46bd-bb17-65b39c929c63.jpg" height="50" /></a>
 ---
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160175739-f04c6a2c-f9c0-4437-9922-167fec6554a9.png" height="80" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160207808-335d073c-9220-41c2-b0c3-9cba6b9f6c19.jpg" height="50" /></a>
 ---
-<a href="#" target="blank"><img align="lcenter" src="https://user-images.githubusercontent.com/85023604/160175829-c2d7ffec-6244-43da-a480-297d5cd85a1e.png" height="88" /></a>
+<a href="#" target="blank"><img align="lcenter" src="https://user-images.githubusercontent.com/85023604/160207828-e5050c80-7a57-4d74-baa7-3d2acdd78906.jpg" height="50" /></a>
 ---
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160175942-c5729115-4b1f-4a4a-bb57-8a394e22728d.png" height="88" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160207839-2a96102d-0bfc-4dab-81a4-29b6c88f625d.jpg" height="50" /></a>
 
 
