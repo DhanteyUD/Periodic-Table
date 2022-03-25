@@ -13,7 +13,7 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 ---
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174352-1b53fd93-4b1b-4cb1-a287-b493d0a851e8.png" height="85" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174352-1b53fd93-4b1b-4cb1-a287-b493d0a851e8.png" height="84" /></a>
 
 ---
 
