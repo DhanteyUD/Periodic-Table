@@ -9,7 +9,7 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 ## Colour Representation
 
-<a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160173871-062a711a-997e-4489-b98d-21a0da200bb3.png" height="80" /></a> 
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160173871-062a711a-997e-4489-b98d-21a0da200bb3.png" height="80" /></a> 
 
 ---
 
