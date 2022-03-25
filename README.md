@@ -17,23 +17,23 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 ---
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174512-046ebeb9-d37a-415c-a948-8a30122db504.png" height="80" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174512-046ebeb9-d37a-415c-a948-8a30122db504.png" height="78" /></a>
 
 ---
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174703-e90a476f-12b8-435d-92f0-6ac136dfa41e.png" height="80" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174703-e90a476f-12b8-435d-92f0-6ac136dfa41e.png" height="87" /></a>
 
 ---
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174808-eba8ae85-3177-479c-9234-3149e8faaa73.png" height="80" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174808-eba8ae85-3177-479c-9234-3149e8faaa73.png" height="87" /></a>
 
 ---
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160176295-ebecd7ce-d390-43ad-8b14-c06b0739b39d.png" height="80" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160176295-ebecd7ce-d390-43ad-8b14-c06b0739b39d.png" height="90" /></a>
 
 ---
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174973-627bd867-90b6-4ed3-8920-7c184f36222f.png" height="80" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160174973-627bd867-90b6-4ed3-8920-7c184f36222f.png" height="85" /></a>
 
 ---
 
@@ -41,7 +41,7 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 ---
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160175243-d3f4af1c-33be-40d1-8452-fe7e98e4e031.png" height="80" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160175243-d3f4af1c-33be-40d1-8452-fe7e98e4e031.png" height="88" /></a>
 
 ---
 
