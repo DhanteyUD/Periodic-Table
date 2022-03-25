@@ -7,6 +7,8 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 ---
 
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160209783-aeda33bd-e85c-4a70-938a-4c6acd2c1508.jpeg" /></a>
+
 ## Colour Representation
 
 
