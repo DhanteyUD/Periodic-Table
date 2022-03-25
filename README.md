@@ -9,6 +9,7 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 ## Colour Representation
 ![act]()
+![orange]()
 
 
 
@@ -21,6 +22,8 @@ That number comes from the amount of tiny particles called protons in each atom 
 <a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160174703-e90a476f-12b8-435d-92f0-6ac136dfa41e.png" height="80" /></a>
 
 <a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160174808-eba8ae85-3177-479c-9234-3149e8faaa73.png" height="80" /></a>
+
+<a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160176295-ebecd7ce-d390-43ad-8b14-c06b0739b39d.png" height="80" /></a>
 
 <a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160174973-627bd867-90b6-4ed3-8920-7c184f36222f.png" height="80" /></a>
 
@@ -38,4 +41,3 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 <a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160175942-c5729115-4b1f-4a4a-bb57-8a394e22728d.png" height="80" /></a>
 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="80" /></a>
