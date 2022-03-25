@@ -8,12 +8,8 @@ That number comes from the amount of tiny particles called protons in each atom 
 ---
 
 ## Colour Representation
-![act]()
-![orange]()
 
-
-
-<a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160173871-062a711a-997e-4489-b98d-21a0da200bb3.png" height="80" /></a>
+<a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160173871-062a711a-997e-4489-b98d-21a0da200bb3.png" height="80" /></a> ### Non-Metal
 
 <a href="#" target="blank"><img align="left" src="https://user-images.githubusercontent.com/85023604/160174352-1b53fd93-4b1b-4cb1-a287-b493d0a851e8.png" height="80" /></a>
 
