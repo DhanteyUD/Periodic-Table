@@ -1,4 +1,4 @@
-## Periodic Table
+# Periodic Table
 
 The periodic table is a system for arranging the chemical elements.
 The chemical elements are the basic substances that make up all matter.
@@ -7,7 +7,7 @@ That number comes from the amount of tiny particles called protons in each atom 
 
 ---
 
-# Colour Representation
+## Colour Representation
 
 ![light-green]()
 
