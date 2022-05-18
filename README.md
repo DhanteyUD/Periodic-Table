@@ -13,7 +13,7 @@ Click on link to view **<a href="https://118-elements.netlify.app" target="blank
 
 ---
 
-## Colour Representation
+# Colour Representation
 
 ## <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160206043-a90708e5-e450-46dc-838f-19e21397ccd5.jpg" height="50" /></a> Non-metal
 
