@@ -5,6 +5,7 @@ The chemical elements are the basic substances that make up all matter.
 Each chemical element has a particular feature called its atomic number.
 That number comes from the amount of tiny particles called protons in each atom of the element.
 
+---
 
 Click on link to view **<a href="https://118-elements.netlify.app" target="blank">Periodic Table</a>**
 ---
